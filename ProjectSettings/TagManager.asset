@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Item
+  - Weapon
+  - Enemy
+  - Weapon Parrying
+  - Heavy Attack
+  - Player Smoked
+  - Foot Spikes
+  - Kunai
+  - Caltrop
+  - Fire Bomb
+  - Shuriken
+  - Arrow
+  - Mini Weapon
+  - Platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - Fall Off
+  - Enemy
+  - Particle
+  - SkeletonBrute Turn Back
+  - Background
+  - Wall
+  - GroundBackground
+  - GameBackgroundObject
+  - ItemIcon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2402573627
+    locked: 0
+  - name: ParticleBackground
+    uniqueID: 4085885529
+    locked: 0
+  - name: Tilemap
+    uniqueID: 2451975253
+    locked: 0
+  - name: Particle
+    uniqueID: 3159608809
+    locked: 0
+  - name: Wall
+    uniqueID: 1175193193
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GameBackgroundObject
+    uniqueID: 2266596273
+    locked: 0
+  - name: Enemy
+    uniqueID: 3980812687
+    locked: 0
+  - name: Player
+    uniqueID: 3872850595
+    locked: 0
+  - name: UI
+    uniqueID: 3746785337
+    locked: 0
+  - name: ParticleFront
+    uniqueID: 1715802391
+    locked: 0
